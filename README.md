@@ -26,3 +26,5 @@ const david = {
     misc: ["OAuth", "Storybook", "Marvel/Sketch"]
 };
 ```
+
+Feel free to check-out the projects I've been involved in, down in my pinned repos below :point_down:
