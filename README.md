@@ -13,7 +13,7 @@ const david = {
     code: ["Javascript", "Typescript"],
     frontEnd: {
         frameworks: ["React", "React-Native", "Angular"],
-        css: ["CSS", "SASS", "Bootstrap"],
+        css: ["CSS3", "SASS", "Bootstrap"],
         stateManagement: ["Redux", "ApolloClient"]
     },
     backEnd: {
