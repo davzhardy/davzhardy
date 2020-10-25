@@ -16,7 +16,7 @@ const david = {
     },
     backEnd: {
         js: ["Node", "Express", "Koa", "GraphQL", "ApolloServer"],
-        databases: ["MongoDB", "PostgreSQL"]
+        databases: ["MongoDB", "PostgreSQL"],
         ORMs: ["Sequelize", "Mongoose", "Prisma"]
     },
     devOps: ["Docker🐳", "Github Actions"],
