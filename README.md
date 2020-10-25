@@ -6,7 +6,7 @@ A Full-Stack web developer with a background in Finance. <img src="https://media
 
 :gb:  From England but based in Paris. :fr:
 
-Comfortable with a range of technologies:
+Always want to learn more, but right now:
 
 ```javascript
 const david = {
