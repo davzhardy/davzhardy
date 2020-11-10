@@ -23,7 +23,7 @@ const david = {
     },
     devOps: ["Docker🐳", "CD/CI"],
     testing: ["Jest", "React Testing Library"],
-    misc: ["OAuth", "Storybook", "Marvel/Sketch"]
+    misc: ["OAuth", "Storybook", "Marvel"]
 };
 ```
 
